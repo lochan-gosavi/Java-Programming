@@ -6,8 +6,8 @@ class Distance{
         int inches = distanceKM * 39370;
         int cm = distanceKM * 100000;
         System.out.println(m);
-         System.out.println(feet);
-          System.out.println(inches);
-           System.out.println(cm);
+        System.out.println(feet);
+        System.out.println(inches);
+        System.out.println(cm);
     }
 }
