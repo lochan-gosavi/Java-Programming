@@ -9,6 +9,6 @@ class OddEven{
         else{
             System.out.println("Odd");
         }
-        sc.close();
+        sc.close(); 
     }
 }

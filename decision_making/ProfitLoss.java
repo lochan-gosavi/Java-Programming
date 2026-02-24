@@ -1,3 +1,4 @@
+//Take cost price and selling price fromm user and give the output as profit or loss and how mucj
 import java.util.*;
 class ProfitLoss{
     public static void main(String args[]){
