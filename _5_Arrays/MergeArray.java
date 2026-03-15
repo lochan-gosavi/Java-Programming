@@ -26,11 +26,6 @@ class MergeArray{
         
         for(i = 0; i < copy.length; i++){
             System.out.print(copy[i] + " ");
-        }
-
-
-        
-
-        
+        }    
     }
 }
