@@ -25,6 +25,9 @@ class SumOfDiagonalEle{
                 }
             }
         }
+
+    
+
         System.out.println("Sum of Diagonal elements is : " + sum);
     }
 }
