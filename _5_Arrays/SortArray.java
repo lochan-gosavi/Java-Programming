@@ -11,5 +11,10 @@ class SortArray{
         for(i = 0; i < arr.length; i++){
             System.out.print(arr[i] + " ");
         }
+        System.out.println();
+        int k = sc.nextInt();
+        int l = Arrays.binarySearch(arr, k);
+        System.out.print(l + " ");
+        
     }
 }
